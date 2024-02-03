@@ -1,0 +1,10 @@
+div {
+	width: 200px;
+	height: 200px;
+	margin: 20px auto;
+	border-radius: 6px;
+	color: aqua;
+	background-color: red;
+	overflow: auto; /* (visibel/hidden/scroll/auto) */
+ /* overflow-x: hidden / overflow-y: hidden ... */
+}

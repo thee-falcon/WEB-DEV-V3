@@ -1,0 +1,15 @@
+p {
+	color:red;
+	font-size: 50px;
+}
+.my-p {
+	color:green;
+	font-size: 40px;
+}
+
+#my_p {
+	color: orange;
+	font-size:30px;
+}
+
+/* target All Paragraph */

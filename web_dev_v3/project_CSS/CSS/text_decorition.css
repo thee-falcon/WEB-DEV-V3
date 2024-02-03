@@ -1,0 +1,18 @@
+/* 
+	-text decorition.
+	-text transformation.
+*/
+
+div {
+	background-color: aquamarine;
+	text-decoration: line-through red 0.5px;
+	text-transform: uppercase;
+}
+a {
+	color:blue;
+	background-color: rgb(207, 17, 17);
+	padding: 10px;
+	display: inline-block;
+	border-radius: 4px;
+	text-decoration: none;
+}

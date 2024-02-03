@@ -1,0 +1,23 @@
+div {
+	font-size: large;
+	background-image: url("../../../PICS/wp6302713.jpg");
+	/* background-position: center; */
+	background-size: 350px 500px;
+	padding: 10px 50px 20px;
+	margin: 300px 50px 60px;
+	border-width: 20px;
+	border-color: chartreuse blue orange yellow;
+	border-style:groove;
+	outline: 10px solid red;
+}
+
+h2 {
+	color: red;
+	font-size: 50px;
+	font-family:initial;
+}
+
+p {
+	color: rgb(255, 255, 255);
+	font-style: italic;
+}

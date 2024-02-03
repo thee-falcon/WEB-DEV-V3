@@ -1,0 +1,52 @@
+.one {
+	padding: 10px;
+	border-bottom: 2px solid red;
+	border-top: 2px solid red;
+	border-left: 2px solid red;
+	border-right: 2px solid red;
+	color: red;
+	margin: 10px 0px;
+	background-color: yellowgreen;
+}
+.two {
+	padding: 10px;
+	border-bottom: 2px solid blue;
+	border-top: 2px solid blue;
+	border-left: 2px solid blue;
+	border-right: 2px solid blue;
+	color: blue;
+	margin: 10px 0px;
+	background-color: greenyellow;
+}
+.three {
+	padding: 10px;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+	color: black;
+	margin: 10px 0px;
+	background-color: yellowgreen;
+}
+
+.four {
+	padding: 10px;
+	border-bottom: 2px solid orange;
+	border-top: 2px solid orange;
+	border-left: 2px solid orange;
+	border-right: 2px solid orange;
+	color: orange;
+	margin: 10px 0px;
+	background-color: greenyellow;
+}
+
+.five {
+	background-color:yellowgreen;
+	color: tomato;
+	border-bottom: 2px solid tomato;
+	border-top: 2px solid tomato;
+	border-right: 2px solid tomato;
+	border-left: 2px solid tomato;
+	margin: 10px 0px;
+	padding: 10px;
+}

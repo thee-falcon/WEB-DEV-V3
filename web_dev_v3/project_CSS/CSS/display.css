@@ -1,0 +1,30 @@
+/*
+ Block:
+ - Take full width if No Widght.
+ - Add line break.
+ - Respect Padding, Margin, Width, Height.
+
+ Inline:
+ - Do not respect a width or height. 
+ - Do  not Add a line break.
+ - Respect Padding And Margin but [just Left & Right].
+
+ Inline-Block:
+ -
+ -
+ -
+
+ */
+
+ div {
+	 background-color: aqua;
+	 padding: 10px;
+	 margin: 10px;
+ }
+
+ span {
+	 background-color: rgb(59, 59, 227);
+	 display:inline-block;
+	 padding: 10px;
+	 margin: 10px;
+ }

@@ -1,0 +1,19 @@
+/*
+- Text Alighment
+- Alighment
+- Direction
+- Vertical-Alignement 
+ */
+
+ div {
+	 background-color: blue;
+	 color: white;
+	 text-align: center;
+	 direction: ltr;
+ }
+ .arabic {
+	 background-color: black;
+	 color: white;
+	 text-align: center;
+	 direction: rtl;
+ }
